@@ -1,2 +1,48 @@
+# Basic
+title: 林洁宏
+subtitle: 博客
+description: Welcome to my blog
+# 头像里面的标题
+avatarTitle: Lin Jiehong
+# 头像里面的描述
+avatarDesc: Python
+url: "http://JiehongGit.github.io"
+
+# Comment
+comment:
+    # disqus: leopard
+    # duoshuo: leopard 
+    # cloudTie: leopard
+
+# Social
+social:
+    QQ: 974861604
+    github: JiehongGit
+    mail: 974861604@qq.com
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
 
 
