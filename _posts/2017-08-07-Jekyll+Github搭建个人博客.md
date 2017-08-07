@@ -5,12 +5,12 @@ date: 2017-08-07
 tags: 博客   
 ---
 
-###介绍
+### 介绍
 
   &#160; &#160; &#160; &#160;Jekyll是一个简单的免费的Blog生成工具，能够生成静态网页并且可以配合第三方服务，例如Disqus。最关键的是jekyll可以免费部署在Github上，而且可以绑定自己的域名。  
   &#160; &#160; &#160; &#160;关于绑定自己的域名，有兴趣的小伙伴可以去了解了解。
 
-###Github博客仓库
+### Github博客仓库
 
 1、Start a project
 <div ><img src="/images/posts/2017-08-07/StartAProject.png" align="center"/></div>
@@ -60,7 +60,7 @@ tags: 博客
 
 ·_site：Jekyll 解析整个网站源代码后，会将最终的静态网站源代码放在这里。
 
-###环境配置
+### 环境配置
 
 1、[Git环境](https://git-for-windows.github.io/)（用于部署到远端）  
 
@@ -90,5 +90,5 @@ $ bundle exec jekyll serve
 ```
 这样就基本搭建完成了，可以进行博客的编写了。
 
-###Write
+### Write
 开始你的表演把！
