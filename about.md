@@ -9,8 +9,9 @@ title: About me
 <p>
 目前正在学习Pyhton和Web前端。
 <p>
-个人
-<a target="_blank" href="https://github.com/JiehongGit"> Github </a>
-地址。
-
+邮箱：974861604@qq.com
+<p>
+QQ：974861604
+<p>
+Github：<a target="_blank" href="https://github.com/JiehongGit"> 地址 </a>
 {% include comments.html %}
