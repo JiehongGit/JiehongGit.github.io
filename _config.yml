@@ -13,7 +13,7 @@ enableToc: true
 
 # Comment
 comment:
-    disqus: leopard
+    # disqus: leopard
     livere: MTAyMC81NDUwMC8zMDk3MQ==
     # duoshuo: leopard 
     # cloudTie: leopard
