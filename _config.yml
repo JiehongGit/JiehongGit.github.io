@@ -5,12 +5,15 @@ description: Welcome to my blog
 # 头像里面的标题
 avatarTitle: Lin Jiehong
 # 头像里面的描述
-avatarDesc: Student
+avatarDesc: 运维 / 实施
 url: "http://JiehongGit.github.io"
+
+# 博客是否自动生成目录，false为不生成
+enableToc: true
 
 # Comment
 comment:
-    # disqus: leopard
+    disqus: leopard
     # duoshuo: leopard 
     # cloudTie: leopard
 
@@ -19,6 +22,17 @@ social:
     QQ: 974861604
     github: JiehongGit
     mail: 974861604@qq.com
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    #id: 8ba1c6be0953b6f9c2ba38e57f615421  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+    #id: UA-84134159-3  
+    host: auto  
+    
 
 permalink: /:year/:month/:title/
 # Format
@@ -34,6 +48,7 @@ blog_button:
     title: 博客主页
 
 # Navigation buttons in the front page.s
+# 首页左下角分类
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
